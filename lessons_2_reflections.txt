@@ -9,4 +9,7 @@ What value do you think it offers?
     The staging area just contains the files that will be committed.
     Despite of how small or large the project is, you can select a subset of
     files on which you'll be work on.
- 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+    Using 'git add' just on the modified files belonging on that logical change and then commit them.
