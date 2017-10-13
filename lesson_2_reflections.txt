@@ -13,3 +13,8 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical change?
 
     Using 'git add' just on the modified files belonging on that logical change and then commit them.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    Branches are helpful when you want to work on some experimental features.
+    Your changes live in a different branch from the master one and you can checkout between different branches depending on your activities.
