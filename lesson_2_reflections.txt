@@ -18,3 +18,7 @@ What are some situations when branches would be helpful in keeping your history 
 
     Branches are helpful when you want to work on some experimental features.
     Your changes live in a different branch from the master one and you can checkout between different branches depending on your activities.
+
+How do the diagrams help you visualize the branch structure?
+
+    With graph you can see from which commit a new branch starts and the commits that are in it and not in the other branches.
