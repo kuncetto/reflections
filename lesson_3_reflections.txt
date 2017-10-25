@@ -11,3 +11,7 @@ Describe the differences between forks, clones, and branches. When would you use
     Forks copy remotely repositories from an user account to another one. We use them, for example, when we start a new project using a template project built from someone else. All the pushed commits exist in the last repository but not in the original one.
     Clones create local copies of remote repositories. Clone a repository is the first operation to start our contribution to a project, working on a local copy and then pushing commits.
     Branches, finally, are useful when we want to try experimental features or fixing bugs starting from a commit keeping the master clean. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+    It makes easy to check if there are changes that may conflict with the local copy. So I can merge my commits with the remote stored locally and then push the merged version to the remote on GitHub.
